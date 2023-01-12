@@ -1,0 +1,135 @@
+#bg{
+    background-image: url("https://img-c.udemycdn.com/notices/web_banner/slide_ 1_image_udlite /a452d941-0e2b-43b5-a04d-565e8faa723b.jpg");
+        background-size: contain;
+    }
+    body{
+        font-size: 25px;
+    }
+    #design{
+        border: 1px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 20px;
+        padding: 10px;
+        width: 80px;
+    }
+    #slide{
+        list-style-type: none;
+    }
+    #woman{
+        float: right;
+        text-align: justify;
+    }
+    #instructor{
+        float: right;
+        text-align: justify;
+    }
+    #start{
+        border:1px;
+        background-color: black;
+        color: white;
+        width: 400px;
+        align-self: center;
+    }
+    #transfrom{
+        float: right;
+        text-align: justify;
+    }
+    #dev{
+        border: 1px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 30px;
+        padding: 10px;
+        width: 140px;
+    }
+    #container{
+        display: flex;
+        gap: 20px;
+    }
+    #marketing{
+        border: 1px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 30px;
+        padding: 10px;
+        width: 140px;
+    }
+    #IT{
+        border: 1px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 30px;
+        padding: 10px;
+        width: 140px;
+    }
+    #personal{
+        border: 1px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 30px;
+        padding: 10px;
+        width: 150px;
+    }
+    #business{
+        border: 1px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 30px;
+        padding: 10px;
+        width: 140px;    
+    }
+    #photography{
+        border: 1px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 30px;
+        padding: 10px;
+        width: 140px;    
+    }
+    #music{
+        border: 1px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 30px;
+        padding: 10px;
+        width: 140px;    
+    }
+    #findout{
+        background-color: black;
+        color: white;
+        border: 1px;
+        border-width: 40%;
+        line-height: 2.0;
+        border-style: solid;
+        text-align: center;
+        gap: 30px;
+         
+    }
+    ul{
+        list-style-type: none;
+    }
+    #last{
+        color: white;
+        background-color: black;
+        padding: 30px;
+    }
+    #English{
+        border: 1px;
+        border-color: white;
+        border-style: solid;
+        border-width: 30%;
+        padding: 30px;
+        line-height: 1.4;   
+    }
+    .column{
+        float: left;
+        padding: 5px;
+        width: 33.3%;
+        height: 33.3%;
+    }
+    .row::after{
+        content: "";
+        display: table;
+        clear: both;
+    }
